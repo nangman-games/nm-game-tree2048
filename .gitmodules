@@ -1,0 +1,3 @@
+[submodule "nm-framework"]
+	path = nm-framework
+	url = https://github.com/nangman-games/nm-framework.git
